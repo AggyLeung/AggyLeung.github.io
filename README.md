@@ -12,5 +12,6 @@ I have a website on my github.
 
 
 
-contact：qq:7972521
-         email:aggyleung@hotmail.com
+contact：
+qq:7972521         
+email:aggyleung@hotmail.com
